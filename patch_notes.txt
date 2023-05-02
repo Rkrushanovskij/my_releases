@@ -1,1 +1,6 @@
+v0.0.4
+Added file2.txt
+
+----
+
 ADDED LAUNCHER!
